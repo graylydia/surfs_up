@@ -10,3 +10,4 @@ I love Oahu, Hawaii so much so that I decide to move there full time and open up
 * The smallest difference is of 2 degrees for the maximum recorded temperature. The maximum temperature recorded in June was 85 degrees and 83 degrees in December. The average temperature in June was 74.94 degrees and 71.04 degrees in December. The difference between these two numbers is 3.9 degrees.
 * The standard deviation for the month of June is 3.26 and 3.75 for December. The standard deviation is telling us that 50% of our temperatures will fall in between 71.68 and 78.2 for the month of June. As for the month of December, 50% of our temperatures will fall in between 67.29 and 74.79.
 ## Summary
+Based off of the results, I think Ohau, Hawaii would be able to support Surf 'n Shake year round. With the average temperatures in both June and December being low to mid 70s, I think the demand for surfing and ice cream would remain constant. 
