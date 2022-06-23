@@ -7,7 +7,6 @@ I love Oahu, Hawaii so much so that I decide to move there full time and open up
 <img width="170" alt="dec_stats" src="https://user-images.githubusercontent.com/103657822/175394682-002092d8-ed8f-4fe1-b1cf-b765f3b29dda.png">
 
 * To retrieve the June and December temperatures, we first had to query our hawaii.sqlite database and then create a DataFrame from that list. The df.describe() function allowed us to determine the number of recorded temperatures, mean, standard deviation, minimum recorded temperature, the 25th, 50th, 75th percentiles, and the maxiumum recorded temperature. As you can see when comparing these data points, there is not a large difference between the temperatures in June and December. The largest temperature difference is of 8 degrees for the minimum recorded temperature.
-* The smallest difference is of 2 degrees for the maximum recorded temperature. The maximum temperature recorded in June was 85 degrees and 83 degrees in December.
-* The average temperature in June was 74.94 degrees and 71.04 degrees in December. The difference between these two numbers is 3.9 degrees.
-
+* The smallest difference is of 2 degrees for the maximum recorded temperature. The maximum temperature recorded in June was 85 degrees and 83 degrees in December. The average temperature in June was 74.94 degrees and 71.04 degrees in December. The difference between these two numbers is 3.9 degrees.
+* The standard deviation for the month of June is 3.26 and 3.75 for December. The standard deviation is telling us that 50% of our temperatures will fall in between 71.68 and 78.2 for the month of June. As for the month of December, 50% of our temperatures will fall in between 67.29 and 74.79.
 ## Summary
